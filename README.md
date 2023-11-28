@@ -1,4 +1,5 @@
 # Find MAC addresses
+A handy script that I wrote to parse .pcap file for MAC addresses
 
 Usage `python parse_pcap.py <file.pcap>` will give you a .txt file with it's vendors (if found)
 
